@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://atozdns.com
+Data file = /home/atozcorp/www/wp-content/uploads/2022/12/demo-content-import-file_2022-12-06__18-40-30.xml
+Widget file = /home/atozcorp/www/wp-content/uploads/2022/12/demo-widgets-import-file_2022-12-06__18-40-30.json
+Customizer file = /home/atozcorp/www/wp-content/uploads/2022/12/demo-customizer-import-file_2022-12-06__18-40-30.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Custom - Posts Slider - Popular Posts - Imported
+Tag Cloud - No Title - Imported
+Gallery - Photo Gallery - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Side Panel : 
+
+Custom - Company Information - No Title - Imported
+Gallery - Photo Gallery - Imported
+Navigation Menu - Our Services - Imported
+
+Search Page Sidebar : 
+
+Custom - Posts Slider - Recent Posts - Imported
+Tag Cloud - No Title - Imported
+Gallery - Photo Gallery - Imported
+
+Footer Column 1 : 
+
+Custom - Company Information - No Title - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Column 3 : 
+
+Custom - Recent Posts - Recent Posts - Imported
+
+Footer Column 4 : 
+
+Custom - Useful Links - Useful Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+ Slider processed
