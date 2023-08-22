@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'atozwebsite' );
 
 /** Database username */
-define( 'DB_USER', 'atoz' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'TheAnhDark@412' );
